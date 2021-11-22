@@ -1,0 +1,6 @@
+1. buat semua projek laravel dengn format mid_nama
+2.masuukan file yg telah dibuat ddlam sourceetree
+3. silahkan lakukan priintah push dan commit dengan nama commitnya itu nim nama kelas
+4.silahkan lakukan printah full dngan nama folder nama nim clone
+5.setlah melakukan full silahkan ubah slah satu file kmudian commit kembali dngn nama commit ttl
+6. diprojrk trdsbut silhkn buat file dngn soal pngertian Vcs dan sbutkan 5
